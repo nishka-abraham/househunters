@@ -1,0 +1,3 @@
+# neighborhoodhunters
+
+This project looks at three different metrics asthma, crime, and fire incidents to establish the best neighborhood in Pittsburgh. Each metric was individually analyzed to determine a best neighborhood within that category. Then this information was used to generate a combined scoring metric to determine the best neighborhood across all three factors. Through this process crime statistics were given the highest weighting followed by asthma and lowest fire. After finishing, it was found that New Homstead was the best neighborhood overall. 
