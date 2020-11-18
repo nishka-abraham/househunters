@@ -9,7 +9,7 @@ Crime Frequency: https://data.wprdc.org/dataset/police-incident-blotter
 This dataset includes crime frequencey statistics across multiple neighborhoods in Pittsburgh. This was created in the year of 2016 and was udpated as recently as 2020.
 
 Total Population: https://data.wprdc.org/dataset/5b18c198-474c-4723-b735-cc5220ad43cc/resource/82f29015-6905-4b1c-8300-afe9bb2231b3/download/total-population.csv 
-This dataset includes 
+This dataset includes the population size of each neighborhood from 2017. 
 
 Fire Incidents: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh 
 This dataset includes the number of fire incidents based on the number of alarms. This was created in the year of 2017 and was also updated as recently as 2020. 
