@@ -1,4 +1,4 @@
-# neighborhoodhunters
+# neighborhoodHunters
 
 Team Name: Neighborhood Hunters
 
